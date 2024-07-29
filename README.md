@@ -1,5 +1,5 @@
 
-# My Flask App with Webcam Processing
+# Webcam Processing for privacy issue fixed
 
 This Docker image contains a Flask application that captures webcam video, processes it to detect faces, and saves the output video. The app provides endpoints to start and stop the video processing.
 
